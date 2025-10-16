@@ -1,0 +1,8 @@
+<resources>
+    <string-array name="sample_options">
+        <item>Select Your Option</item>
+        <item>Visit Lake Superior Zoo</item>
+        <item>Boat Cruise Lake Superior</item>
+        <item>Lake Walk and Beach Access</item>
+    </string-array>
+</resources>

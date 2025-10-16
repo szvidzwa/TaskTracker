@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lake Superior Activities</string>
+    <string name="welcome">Welcome</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="submit">Submit</string>
+    <string name="notifications">Notifications</string>
+    <string name="volume">Volume</string>
+    <string name="choose_option">Choose an option</string>
+    <string name="greeting_default">Hello, visitor!</string>
+    <string name="select_your_option">Select Your Option</string>
+</resources>
