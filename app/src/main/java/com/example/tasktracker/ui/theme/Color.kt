@@ -1,6 +1,5 @@
 package com.example.tasktracker.ui.theme
 
-// FIX: Corrected the import path for the Color class
 import androidx.compose.ui.graphics.Color
 
 val Purple80 = Color(0xFFD0BCFF)
